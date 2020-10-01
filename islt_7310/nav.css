@@ -1,11 +1,15 @@
-ul li {
+nav ul  {
     display: inline-block;
-    border: 4px #043627;
     padding: 10px 10px 10px 10px;
-    width: 100px;
+    display: flex}
+nav li {
+    display:flex;
+    flex: 1 1 0;
+    border: 4px #4px #043627;    
     list-style-type: none;
     text-align: center;
     margin-top: 0;
     margin-left: none;
-        
-}
+    }
+nav hover
+{background-color: white}
