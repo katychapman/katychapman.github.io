@@ -4,7 +4,6 @@ nav ul  {
    }
 nav li {
     display: inline-block;
-    flex: 1 1 0;
     border: 4px #043627;    
     list-style-type: none;
     text-align: center;
@@ -18,4 +17,4 @@ nav ul{
     display: flex;
 }
 nav li {display: flex;
-flex: 1 1 0}
+flex: 1 1 0;}
