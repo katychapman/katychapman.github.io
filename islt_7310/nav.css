@@ -9,11 +9,8 @@ nav ul li {
     text-align: center;
     margin-top: 0;
     margin-left: none;
-    /*justify-content: space-evenly;
-    flex: 1 1 0;*/
-}
-nav ul li a {
-    border: 4px #043627;
+    justify-content: space-evenly;
+    flex: 1 1 0;
 }
 /*
 nav ul li a: hover
