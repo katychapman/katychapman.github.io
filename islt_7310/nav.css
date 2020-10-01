@@ -5,12 +5,15 @@ nav ul {
     list-style-type: none;
 }
 nav ul li {
-    border: 4px #043627;
+    /*border: 4px #043627;*/
     text-align: center;
     margin-top: 0;
     margin-left: none;
     /*justify-content: space-evenly;
     flex: 1 1 0;*/
+}
+nav ul li a {
+    border: 4px #043627;
 }
 /*
 nav ul li a: hover
