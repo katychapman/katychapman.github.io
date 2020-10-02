@@ -1,3 +1,14 @@
 h1{color: #006666; border-style: solid; border-color:#700031;}
 h3{color: #700031}
 body{background-color: #ffd9d8;}
+
+/*tablet portrait*/
+@media only screen and (max-width: 959px)
+{ body {
+    font-size: 120%;}
+    }
+/*mobile portrait*/
+@media only screen and (max-width: 479px)
+{body {
+    font-size: 150%;
+    }}
