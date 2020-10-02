@@ -3,14 +3,16 @@ h3{color: #700031}
 body{background-color: #ffd9d8;}
 
 /*tablet portrait*/
-@media only screen and (max-width: 959px)
-{ body {
-    background-color: blue;
-    font-size: 120%;}
+@media only screen and (max-width: 959px) { 
+    body {
+    background: blue;
+    font-size: 120%;
     }
+}
 /*mobile portrait*/
-@media only screen and (max-width: 479px)
-{body {
-    background-color: white;
+@media only screen and (max-width: 479px) {
+    body {
+    background: white;
     font-size: 150%;
-    }}
+    }
+}
