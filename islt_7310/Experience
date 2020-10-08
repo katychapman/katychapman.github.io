@@ -1,0 +1,31 @@
+<html lang="en-US">
+
+<head>
+<meta name="viewport" content="width=device-width, inticial-scale=1">
+<link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="nav.css">
+
+            <meta charset="utf-8">
+
+            <title>Experience</title>
+
+</head>
+
+<body>
+<nav>
+    
+    <ul>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="about.html">About</a></li>
+        <li><a href="#experience.htm">Experience</a></li>
+<li><a href="#contact.html">Contact</a></li>
+    <li><a href="reflection.html">Reflection</a></li>
+   </ul> </nav>
+   
+<p>I worked as the Technology and Information Library at the Beatrice Public Library from November 2018 to April 2020. In this position, I ran and compiled monthly statistics using SQL for use in monthly/annual reports and grant requests. I spearheaded the Maker Space project which included supervising, training staff, and patrons on the equipment (such as 3D printer, laser cutter, vinyl cutter, embroidery machine, and button maker). I answered reference questions with a focus on technology.</p>
+<p>From August 2018 to July 2019 I volunteered at the African Poetry Library. I reached out directly to publishers and literary magazines for donations to be sent to 5 African countries (Botswana, Uganda, Kenya, The Gambia, Ghana). Using excel I tracked donation requests, donations received, thank-yous sent, and organized were each donation would be sent. I input metadata for each donation for the libraries to use once received. </p> 
+<p>I interned at the literary magazine The Prarie Schooner from January 2018 to May 2018. I collaborated with other interns to organize and read submissions for inclusion in the magazine. Additionally, I organized via excel incoming books for review in the magazine.</p>
+   </body>
+   <footer>Kaitlin Chapman, kcm2v@umsystem.edu, © 2020 all rights reserved
+    </footer></body>
+</html> 
