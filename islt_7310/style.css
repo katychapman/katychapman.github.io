@@ -1,4 +1,6 @@
-h1{color: #006666; border-style: solid; border-color:#700031;}
+html, body, h1, h2, h3, h4, h5, h6 {
+  font-family: Arial, Helvetica, sans-serif;
+}h1{color: #006666; border-style: solid; border-color:#700031;}
 h3{color: #700031;}
 body{background-color: #ffd9d8;}
 
